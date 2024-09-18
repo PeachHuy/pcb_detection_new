@@ -1,0 +1,32 @@
+path: /home/hungdq30/Downloads/PCBSegClassNet/data # base dataset directory
+train: images # train images
+val: images # val images
+
+nc: 25 # number of classes
+names: [
+    "R",
+    "C",
+    "U",
+    "Q",
+    "J",
+    "L",
+    "RA",
+    "D",
+    "RN",
+    "TP",
+    "IC",
+    "P",
+    "CR",
+    "M",
+    "BTN",
+    "FB",
+    "CRA",
+    "SW",
+    "T",
+    "F",
+    "V",
+    "LED",
+    "S",
+    "QA",
+    "JP",
+  ] # class names

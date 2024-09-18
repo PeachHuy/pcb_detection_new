@@ -1,0 +1,25 @@
+R	Resistor	7246
+C	Capacitor	6896
+U	Integrated Circuit	761
+Q	Discrete Transistor	616
+J	Connector	579
+L	Inductor	473
+RA	Resistor Coil	404
+D	Diode	362
+RN	Resistor Network	330
+TP	Test Point	266
+U	Integrated Circuit	237
+P	Plug	200
+CR	Thyristor	194
+M	Motor	74
+BTN	Button	72
+FB	Ferrite Bead	69
+CRA	CRA	54
+SW	Switch	50
+T	Transformer	47
+F	Fuse	44
+V	Vaccum Tube	41
+LED	Light Emitting Diode	39
+SW	Switch	37
+QA	QA	36
+JP	Jumper Link	0

@@ -1,0 +1,7 @@
+fastapi==0.112.2
+numpy
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+Pillow==10.4.0
+ultralytics==8.2.82
+uvicorn==0.30.6

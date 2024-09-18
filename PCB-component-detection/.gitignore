@@ -1,0 +1,3 @@
+*.pvc
+.venv
+*/__pycache__/*
